@@ -7,3 +7,8 @@ class Problem1(object):
                 total += current_number
             current_number += 1
         return total
+
+
+if __name__ == '__main__':
+    problem1 = Problem1()
+    print problem1.sum_below(1000) # == 233168
