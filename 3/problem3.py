@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Problem3(object):
     def largest_prime_from(self, which):
         counter = 1

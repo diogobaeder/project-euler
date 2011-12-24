@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Problem1(object):
     def sum_below(self, threshold):
         current_number = 1

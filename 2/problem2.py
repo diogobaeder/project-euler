@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Problem2(object):
     def sum_till(self, till):
         pair_sum = 0
