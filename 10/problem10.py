@@ -20,7 +20,6 @@ import math
 
 
 class Problem10(object):
-    # Copied from problem 3
     def is_prime(self, number):
         counter = 2
         square = math.sqrt(number)
